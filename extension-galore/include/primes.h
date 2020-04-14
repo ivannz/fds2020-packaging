@@ -1,0 +1,1 @@
+void primes_c(int n_primes, int *primes);
