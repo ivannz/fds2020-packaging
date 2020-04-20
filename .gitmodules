@@ -1,0 +1,3 @@
+[submodule "fds2020-fcbo-project"]
+	path = fds2020-fcbo-project
+	url = https://github.com/ivannz/fds2020-fcbo-project.git
